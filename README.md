@@ -1,2 +1,3 @@
 # Hello-worldd
-new one
+hi friend
+The changes are so and so ..
